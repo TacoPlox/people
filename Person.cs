@@ -1,6 +1,6 @@
 using System;
 
-namespace persons
+namespace Persons
 {
     class Person {
         private string name;
